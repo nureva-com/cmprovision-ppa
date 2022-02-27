@@ -1,1 +1,1 @@
-deb https://nureva-com.github.io/cmprovision-ppa ./
+deb [signed-by=/usr/share/keyrings/nureva-cmprovision-archive-keyring.gpg] https://nureva-com.github.io/cmprovision-ppa ./

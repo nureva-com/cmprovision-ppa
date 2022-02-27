@@ -6,7 +6,7 @@ PPA repository for cmprovision
 To use this PPA:
 
 ```
-curl -s --compressed "https://nureva-com.github.io/cmprovision-ppa/KEY.gpg" | gpg --dearmor | sudo tee /usr/share/keyrings/nureva-cmprovision-ppa-keyring.gpg
+curl -s --compressed "https://nureva-com.github.io/cmprovision-ppa/KEY.gpg" | gpg --dearmor | sudo tee /usr/share/keyrings/nureva-cmprovision-archive-keyring.gpg
 sudo curl -s --compressed -o /etc/apt/sources.list.d/nureva-cmprovision.list "https://nureva-com.github.io/cmprovision-ppa/nureva-cmprovision.list"
 sudo apt update
 ```
