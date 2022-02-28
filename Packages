@@ -22,10 +22,10 @@ Installed-Size: 61139
 Depends: rpiboot, dnsmasq-base, nginx, sqlite3, php-cli (>= 7.3), php-fpm (>= 7.3), php-sqlite3 (>= 7.3), php-bcmath (>= 7.3), php-mbstring (>= 7.3), php-xml (>= 7.3), php-zip (>= 7.3), php-gd (>= 7.3), sudo, adduser
 Conflicts: usbbootgui
 Filename: ./cmprovision4_1.3.1+nureva_all.deb
-Size: 15964000
-MD5sum: 66763a9631b00551743b397023826f86
-SHA1: b154801df028dbbe5cc0fd694c6c36e20ccd89c8
-SHA256: 9c36e459bdc7bac76b479b5dfb45f9f4fb8543c07eaf6c9fc97946e013cc5300
+Size: 15963940
+MD5sum: 2995dcca5dde6fdbab19c94053a1eecf
+SHA1: d9023e4885dad590bf946c6254f45c14913769ae
+SHA256: 3328d4bdcf977c05a5fbc1a2a6bb91f46a982ce8844b3cdc33433544be43503e
 Section: admin
 Priority: optional
 Description: Webapplication to provision CM4 modules
