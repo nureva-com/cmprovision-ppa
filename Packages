@@ -30,3 +30,19 @@ Section: admin
 Priority: optional
 Description: Webapplication to provision CM4 modules
 
+Package: cmprovision4
+Version: 1.4+nureva
+Architecture: all
+Maintainer: Floris Bos <bos@je-eigen-domein.nl>
+Installed-Size: 60646
+Depends: rpiboot, dnsmasq-base, nginx, sqlite3, php-cli (>= 7.3), php-fpm (>= 7.3), php-sqlite3 (>= 7.3), php-bcmath (>= 7.3), php-mbstring (>= 7.3), php-xml (>= 7.3), php-zip (>= 7.3), php-gd (>= 7.3), sudo, adduser
+Conflicts: usbbootgui
+Filename: ./cmprovision4_1.4+nureva_all.deb
+Size: 15784948
+MD5sum: e3caa32e037a4e606bb7deed70834777
+SHA1: 08bc892be5c57ff25c566c589e753f7e23b427d0
+SHA256: 20a2df67c99161453b69363650d53e2080fdf7f72ad38bc4c6d7a9531a38f218
+Section: admin
+Priority: optional
+Description: Webapplication to provision CM4 modules
+
